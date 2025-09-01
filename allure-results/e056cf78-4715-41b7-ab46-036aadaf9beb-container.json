@@ -1,0 +1,1 @@
+{"uuid":"e056cf78-4715-41b7-ab46-036aadaf9beb","name":"SeleniumCustomHybridFW","children":["49ca3a95-9b95-41a1-9250-611e152cc2e1"],"befores":[{"name":"set_sample","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1756710002963,"stop":1756710005632}],"afters":[],"start":1756710002939,"stop":1756710006173}
