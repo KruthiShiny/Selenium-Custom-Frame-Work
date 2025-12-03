@@ -16,6 +16,7 @@ import static org.example.drivers.DriverManager.getDriver;
 public class LoginPage extends CommonToAllPages {WebDriver driver;
 
     public LoginPage(WebDriver driver) {
+
         this.driver = driver;
     }
 
@@ -24,6 +25,7 @@ public class LoginPage extends CommonToAllPages {WebDriver driver;
     private By password = By.id("login-password");
     private By signButton = By.id("js-login-btn");
     private By error_message = By.id("js-notification-box-msg");
+    
 
     // If you are not using it , don't keep.
     //private By signBySSO = By.xpath("//button[normalize-space()='Sign in using SSO']");
